@@ -1,0 +1,43 @@
+
+.app img {
+	display:block;
+	width: 250px;
+	height: 250px;
+	margin: 1rem auto;
+
+}
+
+/* .app {
+ 
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+} */
+.app button {
+  /* padding: 0.5rem 1rem; */
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  background: var(--primary-color);
+  border: none;
+  padding: 7px 10px;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+.app input{
+
+  padding: 5px 10px;
+  border-radius: 20px;
+  border: 1px solid black;
+}
+.app h1{
+  color: rgb(255, 179, 0);
+  font: bold 40px Arial;
+}
+.app h1 span{
+  color: black;
+}
+
+
+
+

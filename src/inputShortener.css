@@ -1,0 +1,23 @@
+.inputContainer button{
+        /* padding: 0.5rem 1rem; */
+        color: rgb(0, 0, 0);
+        cursor: pointer;
+        background: var(--primary-color);
+        border: none;
+        border-radius: 20px;
+        border: 1px solid black;
+     
+}
+.inputContainer input{
+        border-radius: 15px;
+        border: 1px solid black;
+}
+.inputContainer h1{
+      
+  color: rgb(255, 179, 0);
+  font: bold 40px Arial;
+
+}
+.inputContainer h1 span{
+        color: rgba(0, 0, 0, 0.868);
+}

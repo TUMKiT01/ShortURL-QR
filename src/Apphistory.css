@@ -1,0 +1,36 @@
+.app-section {
+    padding: 5px;
+   
+
+}
+
+.app-container {
+    max-width: 80%;
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+   
+    
+}
+
+.app-Link {
+    background-color: rgba(30, 137, 244, 0.847);
+    margin-bottom: 10px;
+    padding: 10px;
+    
+    font-size: 15px;
+    font-style: italic;
+    color: #000000;
+    line-height: 1;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+    border-radius: 20px;
+    
+    
+    
+}
+

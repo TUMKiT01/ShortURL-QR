@@ -1,0 +1,32 @@
+.contranner li{
+    font-size: 20px;
+    
+}
+.result {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: black;
+    padding: 0.1rem 0.5rem;
+  }
+  .result p {
+    border:  solid var(--primary-color);
+    padding: 0.5rem 0.3rem;
+    color: rgb(0, 0, 0);
+  }
+  .result button {
+    padding: 0.5rem 1rem;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    background: var(--primary-color);
+    border: none;
+  }
+  .result button.copied {
+    background: rgb(0, 0, 0);
+    color: var(--primary-color);
+  }
+  .noData {
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+  }
+  
