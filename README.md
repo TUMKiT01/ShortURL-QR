@@ -3,6 +3,7 @@
 
 ### `npm install`  
 เพื่อติดตั่ง --> node_modules
+### npm install axios
 ### npm install --save react-copy-to-clipboard
 ###  npm install --save qrcode
 ### `npm start`
